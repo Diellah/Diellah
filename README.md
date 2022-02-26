@@ -1,6 +1,4 @@
 ### Hi there, I'm Jennifer Kosencha
-[![Instagram Follow](https://img.shields.io/instagram/follow/JKosencha_?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fj_kosencha&screen_name=j_kosencha)
-
 
 - 🌱 I’m currently doing React JavaScript , RESTFUL Architecture, Plain NodeJs && White Ethical Hacking Cyber Security
 - 👯 I’m looking to collaborate with other content creators
