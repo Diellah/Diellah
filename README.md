@@ -1,11 +1,5 @@
-### Hi there, I'm Maxwel Ochieng
-
-[![Website](https://img.shields.io/website?label=https://devmaxwel.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fhttps://devmaxwel.github.io/portfolio/)](https://devmaxwel.github.io/portfolio)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mochieng_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmochieng_&screen_name=mochieng_)
-
-
-# MERN Developer
-
+### Hi there, I'm Jennifer Kosencha
+[![Twitter Follow](https://img.shields.io/twitter/follow/mochieng_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmochieng_&screen_name=JKosencha)
 
 
 - 🌱 I’m currently doing React JavaScript , RESTFUL Architecture, Plain NodeJs && White Ethical Hacking Cyber Security
@@ -54,7 +48,7 @@
 
 
 
-[website]: https://devmaxwel.github.io/portfolio/
-[twitter]: https://twitter.com/
-[instagram]: https://instagram.com/jkosencha
-[linkedin]: https://www.linkedin.com/in/maxwel-ochieng-b500471b0/
+
+[twitter]: https://twitter.com/JKosencha
+[instagram]: https://instagram.com/j_kosencha
+
