@@ -4,10 +4,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am Chelsea Fan and I love watching Military action Movies.
-- Ask me about anything [here](https://devmaxwel.github.io/portfolio/)
+- Ask me about anything
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=diellah&count_private-true&show_icons-truetheme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Diellah&count_private-true&show_icons-truetheme=radical)
 
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -25,7 +25,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=diellah&count_private-true&show_icons-truetheme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Diellah&count_private-true&show_icons-truetheme=radical)
 <br />
 <br />
 
