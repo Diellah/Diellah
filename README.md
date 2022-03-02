@@ -1,9 +1,9 @@
 ### Hi there, I'm Jennifer Kosencha
 
-- 🌱 I’m currently doing React JavaScript , RESTFUL Architecture, Plain NodeJs && White Ethical Hacking Cyber Security
+- 🌱 I’m currently doing React JavaScript , Firebase, Javascript.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am Chelsea Fan and I love watching Military action Movies.
+- ⚡ Fun fact: I am Talkative.
 - Ask me about anything
 
 
